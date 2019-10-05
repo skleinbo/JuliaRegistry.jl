@@ -1,0 +1,4 @@
+authors = ["Stephan Kleinboelting <skleinbo@thp.uni-koeln.de>"]
+name = "OpenCLPicker"
+repo = "https://github.com/skleinbo/OpenCLPicker.jl.git"
+uuid = "b4741b20-32dd-11e9-2e44-23e783dd72cb"
