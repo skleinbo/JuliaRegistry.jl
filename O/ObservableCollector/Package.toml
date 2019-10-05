@@ -1,0 +1,4 @@
+authors = ["Stephan Kleinboelting <skleinbo@thp.uni-koeln.de>"]
+name = "ObservableCollector"
+repo = "https://github.com/skleinbo/ObservableCollector.jl.git"
+uuid = "aecdbc30-9f0d-11e8-0949-396c5a157264"
