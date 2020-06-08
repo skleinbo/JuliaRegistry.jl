@@ -1,7 +1,8 @@
 name = "skleinboRegistry"
-repo = "https://github.com/skleinbo/JuliaRegistry"
 uuid = "b7e9bab0-e757-11e9-222c-cd383ab81b13"
+repo = "https://github.com/skleinbo/JuliaRegistry"
 
 [packages]
+708a6a61-856c-5d7f-acbf-fcf0902d75eb = { name = "GrowthDynamics", path = "G/GrowthDynamics" }
 aecdbc30-9f0d-11e8-0949-396c5a157264 = { name = "ObservableCollector", path = "O/ObservableCollector" }
 b4741b20-32dd-11e9-2e44-23e783dd72cb = { name = "OpenCLPicker", path = "O/OpenCLPicker" }
