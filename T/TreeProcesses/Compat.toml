@@ -1,0 +1,6 @@
+[0]
+AbstractTrees = "0.4"
+BinaryTrees = "0.2"
+DataFrames = "1"
+StatsBase = "0.33-0.34"
+WeightedSampling = "0.1"

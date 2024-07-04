@@ -9,3 +9,4 @@ aecdbc30-9f0d-11e8-0949-396c5a157264 = { name = "ObservableCollector", path = "O
 af319372-f9cb-496b-b431-7c8e6f770e40 = { name = "WeightedSampling", path = "W/WeightedSampling" }
 b4741b20-32dd-11e9-2e44-23e783dd72cb = { name = "OpenCLPicker", path = "O/OpenCLPicker" }
 b5b2f71e-4d2a-452d-9d2b-18613792c179 = { name = "BinaryTrees", path = "B/BinaryTrees" }
+fe9c5e76-98a0-40b3-a46c-727041eeba4e = { name = "TreeProcesses", path = "T/TreeProcesses" }
